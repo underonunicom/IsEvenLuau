@@ -1,0 +1,10 @@
+[package]
+name = "underonunicom/is-even-luau"
+description = "A (not-so) simple package to check whether or not the number is even or not."
+license = "MIT"
+version = "0.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["aftman.toml"]
+
+[dependencies]
