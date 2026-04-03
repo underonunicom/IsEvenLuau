@@ -1,6 +1,6 @@
 {
   "name": "is-even-luau",
   "tree": {
-    "$path": "IsEvenLuau"
+    "$path": "IsEven.luau"
   }
 }
