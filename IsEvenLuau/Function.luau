@@ -4,7 +4,7 @@ Module.IsEven = function(PassedNumber)
     if type(PassedNumber) == "number" then
 
         -- Here it goes
-        if PassedNumber > 0 then
+        if PassedNumber < 0 then
             print("Module does not support negative numbers (yet).")
             return nil
 
