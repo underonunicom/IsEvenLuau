@@ -1,7 +1,7 @@
 local Module = {}
 
 Module.IsEven = function(PassedNumber)
-    if PassedNumber:IsA("number") then
+    if type(PassedNumber) == "number" then
 
         -- Here it goes
         if PassedNumber > 0 then
