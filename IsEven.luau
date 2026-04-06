@@ -209,6 +209,206 @@ Module.IsEven = function(PassedNumber)
 			return false
 		elseif PassedNumber == 100 then
 			return false
+		elseif PassedNumber == 101 then
+			return false
+		elseif PassedNumber == 102 then
+			return true
+		elseif PassedNumber == 103 then
+			return false
+		elseif PassedNumber == 104 then
+			return true
+		elseif PassedNumber == 105 then
+			return false
+		elseif PassedNumber == 106 then
+			return true
+		elseif PassedNumber == 107 then
+			return false
+		elseif PassedNumber == 108 then
+			return true
+		elseif PassedNumber == 109 then
+			return false
+		elseif PassedNumber == 110 then
+			return true
+		elseif PassedNumber == 111 then
+			return false
+		elseif PassedNumber == 112 then
+			return true
+		elseif PassedNumber == 113 then
+			return false
+		elseif PassedNumber == 114 then
+			return true
+		elseif PassedNumber == 115 then
+			return false
+		elseif PassedNumber == 116 then
+			return false
+		elseif PassedNumber == 117 then
+			return false
+		elseif PassedNumber == 118 then
+			return false
+		elseif PassedNumber == 119 then
+			return false
+		elseif PassedNumber == 120 then
+			return false
+		elseif PassedNumber == 121 then
+			return false
+		elseif PassedNumber == 122 then
+			return false
+		elseif PassedNumber == 123 then
+			return false
+		elseif PassedNumber == 124 then
+			return false
+		elseif PassedNumber == 125 then
+			return false
+		elseif PassedNumber == 126 then
+			return false
+		elseif PassedNumber == 127 then
+			return false
+		elseif PassedNumber == 128 then
+			return false
+		elseif PassedNumber == 129 then
+			return false
+		elseif PassedNumber == 130 then
+			return false
+		elseif PassedNumber == 131 then
+			return false
+		elseif PassedNumber == 132 then
+			return false
+		elseif PassedNumber == 133 then
+			return false
+		elseif PassedNumber == 134 then
+			return false
+		elseif PassedNumber == 135 then
+			return false
+		elseif PassedNumber == 136 then
+			return false
+		elseif PassedNumber == 137 then
+			return false
+		elseif PassedNumber == 138 then
+			return false
+		elseif PassedNumber == 139 then
+			return false
+		elseif PassedNumber == 140 then
+			return false
+		elseif PassedNumber == 141 then
+			return false
+		elseif PassedNumber == 142 then
+			return false
+		elseif PassedNumber == 143 then
+			return false
+		elseif PassedNumber == 144 then
+			return false
+		elseif PassedNumber == 145 then
+			return false
+		elseif PassedNumber == 146 then
+			return false
+		elseif PassedNumber == 147 then
+			return false
+		elseif PassedNumber == 148 then
+			return false
+		elseif PassedNumber == 149 then
+			return false
+		elseif PassedNumber == 150 then
+			return false
+		elseif PassedNumber == 151 then
+			return false
+		elseif PassedNumber == 152 then
+			return false
+		elseif PassedNumber == 153 then
+			return false
+		elseif PassedNumber == 154 then
+			return false
+		elseif PassedNumber == 155 then
+			return false
+		elseif PassedNumber == 156 then
+			return false
+		elseif PassedNumber == 157 then
+			return false
+		elseif PassedNumber == 158 then
+			return false
+		elseif PassedNumber == 159 then
+			return false
+		elseif PassedNumber == 160 then
+			return false
+		elseif PassedNumber == 161 then
+			return false
+		elseif PassedNumber == 162 then
+			return false
+		elseif PassedNumber == 163 then
+			return false
+		elseif PassedNumber == 164 then
+			return false
+		elseif PassedNumber == 165 then
+			return false
+		elseif PassedNumber == 166 then
+			return false
+		elseif PassedNumber == 167 then
+			return false
+		elseif PassedNumber == 168 then
+			return false
+		elseif PassedNumber == 169 then
+			return false
+		elseif PassedNumber == 170 then
+			return false
+		elseif PassedNumber == 171 then
+			return false
+		elseif PassedNumber == 172 then
+			return false
+		elseif PassedNumber == 173 then
+			return false
+		elseif PassedNumber == 174 then
+			return false
+		elseif PassedNumber == 175 then
+			return false
+		elseif PassedNumber == 176 then
+			return false
+		elseif PassedNumber == 177 then
+			return false
+		elseif PassedNumber == 178 then
+			return false
+		elseif PassedNumber == 179 then
+			return false
+		elseif PassedNumber == 180 then
+			return false
+		elseif PassedNumber == 181 then
+			return false
+		elseif PassedNumber == 182 then
+			return false
+		elseif PassedNumber == 183 then
+			return false
+		elseif PassedNumber == 184 then
+			return false
+		elseif PassedNumber == 185 then
+			return false
+		elseif PassedNumber == 186 then
+			return false
+		elseif PassedNumber == 187 then
+			return false
+		elseif PassedNumber == 188 then
+			return false
+		elseif PassedNumber == 189 then
+			return false
+		elseif PassedNumber == 190 then
+			return false
+		elseif PassedNumber == 191 then
+			return false
+		elseif PassedNumber == 192 then
+			return false
+		elseif PassedNumber == 193 then
+			return false
+		elseif PassedNumber == 194 then
+			return false
+		elseif PassedNumber == 195 then
+			return false
+		elseif PassedNumber == 196 then
+			return false
+		elseif PassedNumber == 197 then
+			return false
+		elseif PassedNumber == 198 then
+			return false
+		elseif PassedNumber == 199 then
+			return false
+		elseif PassedNumber == 200 then
+			return false
 		-- Final else for unsupported characters LOL
 		else
 			print("Number currently not supported :(")
